@@ -6,7 +6,7 @@ Full-Stack Web Developer
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [rajabdildar4678@gmail.com](mailto:rajabdildar4678@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning Backend in NodeJS
 
 ### Skills
 
