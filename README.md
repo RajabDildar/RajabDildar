@@ -6,6 +6,7 @@ A passionate <strong>Full-Stack Web Developer</strong> and tech enthusiast
 * 🌍  I'm based in Faisalabad, Pakistan
 * ✉️  You can contact me at [rajabdildar4678@gmail.com](mailto:rajabdildar4678@gmail.com)
 
+## My Skills 💻
 
 ### ➥ Frontend Development
 
