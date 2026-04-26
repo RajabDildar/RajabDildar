@@ -10,7 +10,7 @@
 ```bash
 > Rajab Ali — Full Stack Developer (MERN)
 > Location: Fsd, Pakistan
-> Status: CS student - Open to internships
+> Status: CS student
 > Currently: shipping code, grinding LeetCode, breaking prod at midnight
 ```
 
