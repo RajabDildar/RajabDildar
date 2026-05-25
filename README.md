@@ -18,7 +18,6 @@
 
 ### 🔭 currently
 
-- 🛠 building **[Examino](https://github.com/RajabDildar/Examino)** — a full-stack exam management platform
 - 🤖 exploring **Generative AI** and **Agentic AI workflows**
 - 📈 grinding **DSA** on LeetCode (beginner → not beginner)
 
@@ -61,6 +60,7 @@
 |--------|-----------|-------|
 | [**Wanderlust**](https://wanderlust-production-bc20.up.railway.app/) | Airbnb-inspired travel platform — list destinations, maps, reviews | Node.js, Express, MongoDB, Cloudinary, Mapbox |
 | [**AI Test Case Generator**](https://github.com/RajabDildar/test-generator) | Paste code → get structured test cases powered by LLaMA 3.3 70B | Python, Flask, Groq API |
+| [**YT Notes**](https://github.com/RajabDildar/YT-Notes) | Multilingual Youtube Chrome extension for user assistance | Python, FastAPI, Groq API, Langchain, Reactjs, Typescript |
 
 ---
 
@@ -83,10 +83,11 @@
 
 ### 🏆 achievements
 
-- 🥇 **Winner** — Harvard CS50x Puzzle Day 2025
+- 🥇 **2X Winner** — Harvard CS50x Puzzle Day 2025 & 2026
 - ⚡ **Participant** — Trae AI IDE: Zero Limits Hackathon
 - 🔥 **Participant** — United Hacks v6 by Hack United
 - 💻 **Participant** — Meta Hacker Cup 2025
+- 💻 **Participant** — Calico by UC Berkley, 2025
 
 ---
 
