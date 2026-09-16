@@ -1,97 +1,105 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+rajab+%F0%9F%91%8B;full+stack+developer;building+stuff+at+2am+%F0%9F%8C%99;" alt="Typing SVG" />
+# Hi, I'm Rajab 👋
+
+### Full Stack AI Engineer | AI Product Builder
+
+I build web applications, AI agents, and automation systems, turning ideas into products that actually run in production.
 
 </div>
 
 ---
 
-### whoami
-```bash
-> Rajab Ali — Full Stack Developer (MERN)
-> Location: Fsd, Pakistan
-> Status: CS student
-> Currently: shipping code, grinding LeetCode, breaking prod at midnight
-```
+## About Me
+
+I'm a developer focused on building **AI-powered products** by combining full-stack engineering with modern AI workflows.
+
+My work sits at the intersection of `full-stack development`, `generative AI`, `agentic systems`, `RAG pipelines`, `automation workflows`, and `cloud deployment`.
+
+I like building complete systems, from concept → development → deployment and real-world usage.
 
 ---
 
-### 🔭 currently
+## What I Build
 
-- 🤖 exploring **Generative AI** and **Agentic AI workflows**
-- 📈 grinding **DSA** on LeetCode (beginner → not beginner)
+I enjoy working on products where software and AI come together.
+
+AI-powered applications • Agentic workflows • LLM applications • RAG systems • Automation platforms
 
 ---
 
-### 🧰 tech stack
+## Tech Stack
 
-**Languages**
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Backend & Database**
+### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge)
+
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
+### Cloud & DevOps
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Deployment:
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
 
 ---
 
-### 🚀 featured projects
+## Featured Projects
 
-| project | what it is | stack |
-|--------|-----------|-------|
-| [**Wanderlust**](https://wanderlust-production-bc20.up.railway.app/) | Airbnb-inspired travel platform — list destinations, maps, reviews | Node.js, Express, MongoDB, Cloudinary, Mapbox |
-| [**AI Test Case Generator**](https://github.com/RajabDildar/test-generator) | Paste code → get structured test cases powered by LLaMA 3.3 70B | Python, Flask, Groq API |
-| [**YT Notes**](https://github.com/RajabDildar/YT-Notes) | Multilingual Youtube Chrome extension for user assistance | Python, FastAPI, Groq API, Langchain, Reactjs, Typescript |
-
----
-
-### 📊 github stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RajabDildar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajabDildar&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![streak](https://streak-stats.demolab.com?user=rajabdildar&theme=github-dark-blue&hide_border=true)
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [**Blog Agent**](https://github.com/RajabDildar/blog-agent) | Agentic AI workflow that researches topics and generates structured technical blog content. | LangGraph, LangChain, LLMs, Python |
+| [**YT Notes**](https://github.com/RajabDildar/YT-Notes) | AI-powered Chrome extension that summarizes YouTube videos and helps users interact with content. | React, TypeScript, FastAPI, LangChain, Groq |
+| [**Wanderlust**](https://github.com/RajabDildar/WanderLust) | Airbnb-inspired travel platform with listings, maps, reviews, and authentication. | Node.js, Express, MongoDB, Cloudinary, Mapbox |
 
 ---
 
-### 🏆 achievements
+## Highlights
 
-- 🥇 **2X Winner** — Harvard CS50x Puzzle Day 2025 & 2026
+- 🥇 **2× Winner** — Harvard CS50x Puzzle Day 2025 & 2026
 - ⚡ **Participant** — Trae AI IDE: Zero Limits Hackathon
 - 🔥 **Participant** — United Hacks v6 by Hack United
 - 💻 **Participant** — Meta Hacker Cup 2025
-- 💻 **Participant** — Calico by UC Berkley, 2025
+- 💻 **Participant** — Calico by UC Berkeley 2025
 
 ---
 
-### 📬 find me
+## Beyond Code
+
+Outside of building software, I enjoy hackathons, coding competitions, exploring new AI technologies, and travelling to discover new places.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -104,5 +112,7 @@
 ---
 
 <div align="center">
-<sub>🌙 usually found debugging at midnight — send coffee</sub>
+
+<sub>Building useful things with code, AI, and curiosity.</sub>
+
 </div>
